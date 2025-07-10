@@ -13,12 +13,15 @@
 
 - ⚡ Fun fact: **I enjoy learning new tech stacks and solving real-life problems with code.**
 
+
+
+
+
 ---
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,prisma,postgres,mongodb,mysql,tailwind,html,css,git,github,vscode,vercel,docker,postman,aws" />
-  <img src="https://img.shields.io/badge/LINX-Workflow_Automation-orange?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,prisma,postgres,mongodb,mysql,tailwind,html,css,git,github,vscode,vercel,docker,postman,aws,linux" />
 </p
 
 ---
