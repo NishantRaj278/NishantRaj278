@@ -1,25 +1,47 @@
 <h1 align="center">Hi 👋, I'm Nishant Raj</h1>
-<h3 align="center">A passionate Full Stack Developer & Tech Enthusiast from India</h3>
+<h3 align="center">🚀 Full Stack Developer | Tech Explorer from India</h3>
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300" alt="Coding" />
+</p>
 
-- 🔭 I’m currently working on **building modern full-stack web apps**
+---
 
-- 👯 I’m looking to collaborate on **open-source and real-world SaaS projects**
-  
-- 🌱 I’m currently learning **AWS, and Web3 technologies**
-  
-- 💬 Ask me about **Next.js, TypeScript, JavaScript, React, Node.js, MongoDB**
+### 👨‍💻 About Me
 
-- 📫 How to reach me: **rnishant721@email.com**
+- 🔭 Building full-stack web apps  
+- 🌱 Currently exploring **AWS, Web3, DevOps**  
+- 💬 Ask me about **Next.js, TypeScript, Node.js, React, MongoDB**  
+- 📫 Reach me at: **rnishant721@email.com**  
+- ⚡ Fun fact: I love solving real-life problems with code
 
-- ⚡ Fun fact: **I enjoy learning new tech stacks and solving real-life problems with code.**
 ---
 
 ### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,prisma,postgres,mongodb,mysql,tailwind,html,css,git,github,vscode,vercel,docker,postman,aws,linux" />
-</p
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" width="40" style="animation: bounce 2s infinite;" />
+  <img src="https://skillicons.dev/icons?i=ts" width="40" style="animation: pulse 2s infinite;" />
+  <img src="https://skillicons.dev/icons?i=react" width="40" style="animation: bounce 3s infinite;" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="40" style="animation: pulse 2s infinite;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40" style="animation: bounce 2s infinite;" />
+  <img src="https://skillicons.dev/icons?i=express" width="40" />
+  <img src="https://skillicons.dev/icons?i=prisma" width="40" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40" />
+  <img src="https://skillicons.dev/icons?i=html" width="40" />
+  <img src="https://skillicons.dev/icons?i=css" width="40" />
+  <img src="https://skillicons.dev/icons?i=git" width="40" />
+  <img src="https://skillicons.dev/icons?i=github" width="40" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="40" />
+  <img src="https://skillicons.dev/icons?i=vercel" width="40" />
+  <img src="https://skillicons.dev/icons?i=docker" width="40" />
+  <img src="https://skillicons.dev/icons?i=postman" width="40" />
+  <img src="https://skillicons.dev/icons?i=aws" width="40" />
+  <img src="https://skillicons.dev/icons?i=linux" width="40" />
+</div>
 
 ---
 
@@ -34,25 +56,30 @@
 
 ### 🧠 Currently Exploring
 
-- 🌐 **Next.js Full Stack Development**
-- 🔐 **Authentication (Clerk, Firebase Auth)**
-- ☁️ **DevOps Basics (Docker, Vercel, CI/CD)**
+- 🛠️ **Next.js Full Stack Framework**  
+- 🔐 **Authentication (Clerk, Firebase)**  
+- ☁️ **AWS, Docker, CI/CD Pipelines**  
+- 🔄 **Backend with Prisma + PostgreSQL**
 
 ---
 
-### 📫 Connect with Me
+### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/nishantraj1234" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:rnishant721@email.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/NishantRaj278"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nishantraj1234" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:rnishant721@email.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/NishantRaj278">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<!-- Add any featured projects or blogs here if you want -->
-
-<!-- Optionally, add contribution graph -->
+<!-- Optional GitHub Activity Graph -->
 <!--
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nishantraj&theme=react-dark)
 -->
