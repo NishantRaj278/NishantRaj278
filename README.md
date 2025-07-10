@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishant Raj</h1>
 <h3 align="center">A passionate Full Stack Developer & Tech Enthusiast from India</h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" />
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" />
 
 - 🔭 I’m currently working on **building modern full-stack web apps**
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Next.js, TypeScript, JavaScript, React, Node.js, MongoDB**
 
-- 📫 How to reach me: **rnishant721@email.com** *(replace with your email)*
+- 📫 How to reach me: **rnishant721@email.com**
 
 - ⚡ Fun fact: **I enjoy learning new tech stacks and solving real-life problems with code.**
 
@@ -29,8 +29,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NishantRaj278&show_icons=true&theme=radical" alt="nishantraj" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishantRaj278&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NishantRaj278&show_icons=true&theme=default" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishantRaj278&layout=compact&theme=default" width="47%" />
 </p>
 
 ---
