@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishant Raj</h1>
 <h3 align="center">A passionate Full Stack Developer & Tech Enthusiast from India</h3>
 
-<img align="right" alt="Coding" width="300" src="https://i.imgur.com/fqj63WI.gif" />
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" />
 
 - 🔭 I’m currently working on **building modern full-stack web apps**
 
