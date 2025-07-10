@@ -10,9 +10,9 @@
 ### 👨‍💻 About Me
 
 - 🔭 Building full-stack web apps  
-- 🌱 Currently exploring **AWS, Web3, DevOps**  
+- 🌱 Currently exploring **DevOps**  
 - 💬 Ask me about **Next.js, TypeScript, Node.js, React, MongoDB**  
-- 📫 Reach me at: **rnishant721@email.com**  
+- 📫 Reach me at: **rnishant721@gmail.com**  
 - ⚡ Fun fact: I love solving real-life problems with code
 - 🌐 Portfolio: <a href="https://portfolio-tau-murex-92.vercel.app/" target="_blank">nishant.dev</a>
 
@@ -55,31 +55,25 @@
 
 ---
 
-### 🧠 Currently Exploring
-
-- 🛠️ **Next.js Full Stack Framework**  
-- 🔐 **Authentication (Clerk, Firebase)**  
-- ☁️ **AWS, Docker, CI/CD Pipelines**  
-- 🔄 **Backend with Prisma + PostgreSQL**
-
----
-
-### 🌐 Connect with Me
+### 📬 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nishantraj1234" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rnishant721@email.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  
+  <a href="mailto:rnishant721@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/NishantRaj278">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  
+  <a href="https://github.com/NishantRaj278" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Activity Graph
-
-![Nishant's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NishantRaj278&theme=react-dark&hide_border=false)
