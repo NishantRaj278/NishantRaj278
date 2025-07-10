@@ -58,22 +58,27 @@
 ### 📬 Connect with Me
 
 <p align="left">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/nishantraj1234" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
-  </a>
-  
-  <a href="mailto:rnishant721@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40" />
-  </a>
-  
-  <a href="https://github.com/NishantRaj278" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 
+  <!-- Gmail -->
+  <a href="mailto:rnishant721@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/NishantRaj278" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40" height="40"/>
+  </a>
+
+  <!-- Portfolio -->
   <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" width="40" height="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="40" height="40"/>
   </a>
 </p>
+
 
 
 ---
