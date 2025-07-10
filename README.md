@@ -68,11 +68,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
   </a>
 
-  <!-- GitHub -->
-  <a href="https://github.com/NishantRaj278" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40" height="40"/>
-  </a>
-
   <!-- Portfolio -->
   <a href="https://yourportfolio.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="40" height="40"/>
