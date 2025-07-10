@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nishant Raj</h1>
-<h3 align="center">🚀 Full Stack Developer | Tech Explorer from India</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Nishant Raj</h1>
+<h3 align="center">🚀 Full Stack Developer </h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300" alt="Coding" />
@@ -14,6 +14,7 @@
 - 💬 Ask me about **Next.js, TypeScript, Node.js, React, MongoDB**  
 - 📫 Reach me at: **rnishant721@email.com**  
 - ⚡ Fun fact: I love solving real-life problems with code
+- 🌐 Portfolio: <a href="https://portfolio-tau-murex-92.vercel.app/" target="_blank">nishant.dev</a>
 
 ---
 
@@ -79,7 +80,6 @@
 
 ---
 
-<!-- Optional GitHub Activity Graph -->
-<!--
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nishantraj&theme=react-dark)
--->
+### 📊 GitHub Activity Graph
+
+![Nishant's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NishantRaj278&theme=react-dark&hide_border=false)
