@@ -59,21 +59,22 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nishantraj1234" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
   </a>
   
-  <a href="mailto:rnishant721@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:rnishant721@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40" />
   </a>
   
   <a href="https://github.com/NishantRaj278" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
   </a>
-  
+
   <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" width="40" height="40" />
   </a>
 </p>
+
 
 ---
 
