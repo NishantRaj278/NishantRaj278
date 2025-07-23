@@ -42,6 +42,7 @@
   <img src="https://skillicons.dev/icons?i=postman" width="40" />
   <img src="https://skillicons.dev/icons?i=aws" width="40" />
   <img src="https://skillicons.dev/icons?i=linux" width="40" />
+  <img src="https://skillicons.dev/icons?i=java" width="40" />
 </div>
 
 ---
