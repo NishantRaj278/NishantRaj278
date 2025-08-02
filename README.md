@@ -14,7 +14,7 @@
 - 💬 Ask me about **Next.js, TypeScript, Node.js, React, MongoDB**  
 - 📫 Reach me at: **rnishant721@gmail.com**  
 - ⚡ Fun fact: I love solving real-life problems with code
-- 🌐 Portfolio: <a href="https://portfolio-tau-murex-92.vercel.app/" target="_blank">nishant.dev</a>
+- 🌐 Portfolio: <a href="https://portfolio-nishant.vercel.app/" target="_blank">nishant.dev</a>
 
 ---
 
@@ -70,7 +70,7 @@
   </a>
 
   <!-- Portfolio -->
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://portfolio-nishant.vercel.app/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="40" height="40"/>
   </a>
 </p>
