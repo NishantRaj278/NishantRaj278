@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 Building full-stack web apps  
-- 🌱 Currently exploring **DevOps**  
+- 🌱 Currently exploring **nest.js**  
 - 💬 Ask me about **Next.js, TypeScript, Node.js, React, MongoDB**  
 - 📫 Reach me at: **rnishant721@gmail.com**  
 - ⚡ Fun fact: I love solving real-life problems with code
