@@ -25,6 +25,7 @@
   <img src="https://skillicons.dev/icons?i=ts" width="40" style="animation: pulse 2s infinite;" />
   <img src="https://skillicons.dev/icons?i=react" width="40" style="animation: bounce 3s infinite;" />
   <img src="https://skillicons.dev/icons?i=nextjs" width="40" style="animation: pulse 2s infinite;" />
+  <img src="https://skillicons.dev/icons?i=nestjs" width="40" style="animation: pulse 2s infinite;" />
   <img src="https://skillicons.dev/icons?i=nodejs" width="40" style="animation: bounce 2s infinite;" />
   <img src="https://skillicons.dev/icons?i=express" width="40" />
   <img src="https://skillicons.dev/icons?i=prisma" width="40" />
